@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerechshortAlgorithms", "SerechshortAlgorithms.csproj", "{B3751BDA-CC1B-47EB-AE3C-DE192A4034D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3751BDA-CC1B-47EB-AE3C-DE192A4034D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3751BDA-CC1B-47EB-AE3C-DE192A4034D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3751BDA-CC1B-47EB-AE3C-DE192A4034D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3751BDA-CC1B-47EB-AE3C-DE192A4034D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE4B99F-8470-4AC8-82CA-43D7632E50E5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.exe
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.deps.json
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.runtimeconfig.json
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.runtimeconfig.dev.json
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.dll
+D:\AlgorithmPrograms\PRIMENUMBER2\bin\Debug\netcoreapp3.1\PRIMENUMBER2.pdb
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.AssemblyInfo.cs
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.csproj.CoreCompileInputs.cache
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.dll
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.pdb
+D:\AlgorithmPrograms\PRIMENUMBER2\obj\Debug\netcoreapp3.1\PRIMENUMBER2.genruntimeconfig.cache

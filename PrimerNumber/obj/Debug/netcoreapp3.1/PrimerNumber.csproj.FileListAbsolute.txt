@@ -1,0 +1,14 @@
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.exe
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.deps.json
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.runtimeconfig.json
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.runtimeconfig.dev.json
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.dll
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\bin\Debug\netcoreapp3.1\PrimerNumber.pdb
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.AssemblyInfo.cs
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.dll
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.pdb
+C:\Users\gokul\source\repos\AlgorithmPrograms\PrimerNumber\obj\Debug\netcoreapp3.1\PrimerNumber.genruntimeconfig.cache

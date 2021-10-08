@@ -1,0 +1,14 @@
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.exe
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.deps.json
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.runtimeconfig.json
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.runtimeconfig.dev.json
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.dll
+D:\AlgorithmPrograms\bupple sort1\bin\Debug\netcoreapp3.1\bupple sort1.pdb
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.AssemblyInfo.cs
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.csproj.CoreCompileInputs.cache
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.dll
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.pdb
+D:\AlgorithmPrograms\bupple sort1\obj\Debug\netcoreapp3.1\bupple sort1.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\AlgorithmPrograms\mergesort\obj\Debug\netcoreapp3.1\mergesort.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\mergesort\obj\Debug\netcoreapp3.1\mergesort.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\mergesort\obj\Debug\netcoreapp3.1\mergesort.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\mergesort\obj\Debug\netcoreapp3.1\mergesort.AssemblyInfo.cs
+D:\AlgorithmPrograms\mergesort\obj\Debug\netcoreapp3.1\mergesort.csproj.CoreCompileInputs.cache

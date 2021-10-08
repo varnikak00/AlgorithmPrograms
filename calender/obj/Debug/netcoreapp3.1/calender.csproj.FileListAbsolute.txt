@@ -1,0 +1,14 @@
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.exe
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.deps.json
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.runtimeconfig.json
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.runtimeconfig.dev.json
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.dll
+D:\AlgorithmPrograms\calender\bin\Debug\netcoreapp3.1\calender.pdb
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.AssemblyInfo.cs
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.csproj.CoreCompileInputs.cache
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.dll
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.pdb
+D:\AlgorithmPrograms\calender\obj\Debug\netcoreapp3.1\calender.genruntimeconfig.cache
