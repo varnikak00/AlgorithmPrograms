@@ -1,0 +1,5 @@
+D:\AlgorithmPrograms\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\Regex\obj\Debug\netcoreapp3.1\Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+D:\AlgorithmPrograms\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.CoreCompileInputs.cache
