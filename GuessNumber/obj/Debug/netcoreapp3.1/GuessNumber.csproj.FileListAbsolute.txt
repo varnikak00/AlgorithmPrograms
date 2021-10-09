@@ -1,0 +1,5 @@
+D:\AlgorithmPrograms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.AssemblyReference.cache
+D:\AlgorithmPrograms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgorithmPrograms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfoInputs.cache
+D:\AlgorithmPrograms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfo.cs
+D:\AlgorithmPrograms\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.CoreCompileInputs.cache
